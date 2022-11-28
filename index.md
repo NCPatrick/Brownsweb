@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio
+title: My Portfolio
 description: My Portfolio
 ---
 
