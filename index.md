@@ -1,4 +1,4 @@
 ---
-title: Portfolio in progress...
+title: Portfolio
 ---
 
